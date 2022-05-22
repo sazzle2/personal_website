@@ -1,0 +1,23 @@
+
+body{
+  background-image: url('https://i.imgur.com/x3NVABc.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 0 auto;
+  padding: 0 auto;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+
+.homepage-panel {
+  overflow-x: hidden;
+  margin: 20px auto;
+  position: absolute;
+  width: 90%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
